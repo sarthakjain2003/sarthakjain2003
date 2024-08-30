@@ -1,3 +1,4 @@
+![logo](https://cdn-images-1.medium.com/fit/t/1600/480/0*vtLSZJpcGTK-iJ8T.gif)
 <h1 align="center">Hi 👋, I'm Sarthak Jain</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 
